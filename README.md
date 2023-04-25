@@ -1,1 +1,12 @@
-# react-intermediate
+# :hatching_chick: React 숙련주차 필기 및 실습
+```bash
+📦React-Beginner
+ ┣ 📂1_week-2           : [필기] styled-components
+ ┣ 📂2_hooks            : [필기] react hooks
+ ┣ 📂3_redux-counter    : [실습] redux 개념 및 counter 만들기
+ ┣ 📂4_redux-practice   : [실습] redux로 간단한 to-do-list 만들기
+ ┣ 📂5_redux-to-do-list : [과제] redux, router를 이용한 투두리스트 만들기
+ ┣ 📂6_react-router     : [필기] react router
+ ┣ 📂7_js-intermediate  : [필기] js 심화
+ ┗ 📂8_week-2-test      : [시험] 2주차 마무리 테스트
+```
