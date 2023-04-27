@@ -1,6 +1,6 @@
 # :hatching_chick: React 숙련주차 필기 및 실습
 ```bash
-📦React-Beginner
+📦React-Intermediate
  ┣ 📂1_week-2           : [필기] styled-components
  ┣ 📂2_hooks            : [필기] react hooks
  ┣ 📂3_redux-counter    : [실습] redux 개념 및 counter 만들기
